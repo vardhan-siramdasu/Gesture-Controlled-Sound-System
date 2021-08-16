@@ -5,13 +5,6 @@ Created on Thu Jul  8 20:16:09 2021
 @author: Admin
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 10 20:40:54 2021
-
-@author: Admin
-"""
-
 import PySimpleGUI as sg
 
 import cv2
