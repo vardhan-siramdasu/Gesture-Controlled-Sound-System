@@ -1,2 +1,7 @@
 # Gesture Controlled Sound System
+
 The scope of the project is to control MP3 player sound using gesture
+
+## ABSTRACT
+
+The ability of computers to recognise hand gestures visually is essential for progress in human–computer interaction. Gesture recognition has applications ranging from sign language to medical assistance to virtual reality. However, gesture recognition is extremely challenging not only because of its diverse contexts, multiple interpretations, and spatio-temporal variations but also because of the complex non-rigid properties of the hand. this study surveys major constraints on vision-based gesture recognition occurring in detection and pre-processing, representation and feature extraction, and recognition. current challenges are explored in detail. With the development of present computing, current user interaction approaches with keyboard, mouse, and pen are not sufficient. Due to the limitation of these devices, the useable command set is also limited. Direct use of hands can be used as an input device for providing natural interaction. The visual interpretation of gestures provides the most natural and intuitive interaction. However, its implementation remains very difficult. Consequently, gesture recognition research tries to developing systems that are able to analyze, recognize and interpret the gestures captured by a camera.
